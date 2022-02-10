@@ -1,6 +1,6 @@
 CarInfoTechCenter
 
-Programmer: Dylan
+Programmer: Dylan Sabuda
 Date: 1.27.2022
 Version: 1.0
 Program Name: CarInfoTechCenter
